@@ -15,6 +15,11 @@ services:
       - CHANNELS=MEOVV:@MEOVV_OFFICIAL BABYMONSTER:@BABYMONSTER Hearts2Hearts:@hearts2hearts.official KiiiKiii:@KiiiKiii_starship
 ```
 
-## environmentの解説
+## yml解説
 
-基本的な変数と、user idでの指定+ : を挟んでdirectory nameの指定
+### volumes
+downloadしたいdirectoryをしてい
+
+### env
+
+基本的な変数と、user idでの指定 + : を挟んでdirectory nameの指定
